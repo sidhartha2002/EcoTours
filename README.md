@@ -2,6 +2,6 @@
 
 ## A tour web page (demo)
 
-- with amaging css and js effects
+- with amaging css effects
 
 made with ❤️
